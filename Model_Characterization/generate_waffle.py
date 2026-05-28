@@ -6,12 +6,12 @@ import matplotlib.pyplot as plt
 from pywaffle import Waffle
 
 #Read in data 
-data = {'Reaction w/ GPR' : 5,
-'Reaction w/o GPR' : 5,
-'Pathway w/ GPR' : 129,
-'Pathway w/o GPR' : 99,
-'GPR only' : 723,
-'Model' : 216}
+data = {'Reaction w/ GPR' : 6,
+'Reaction w/o GPR' : 7,
+'Pathway w/ GPR' : 100,
+'Pathway w/o GPR' : 154,
+'GPR only' : 525,
+'Model' : 205}
 
 # Basic waffle
 plt.figure(
